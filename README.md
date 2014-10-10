@@ -3,4 +3,5 @@ OEM-APP
 
 # What Does This App Do?
 
-This app will help people displaced by disaters. It will collect critical information essential to the _______ process.
+
+This app will help people displaced by disaters. It will collect information critical to the recovery process.
