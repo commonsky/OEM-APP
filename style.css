@@ -1,1 +1,6 @@
 body {background-color: #C6E2FF;}
+input-lg{position: relative;
+margin-top: 10px;
+min-height: 1px;
+padding-left: 15px;
+padding-right: 15px;}
